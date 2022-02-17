@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/layzaketllin.questao4",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 8WMq6v0muQOpLnuTdVyi --open"
+  }
+}
